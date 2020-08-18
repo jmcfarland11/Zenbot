@@ -2,7 +2,7 @@
  
 > Website : https://zenbot.gg/
 
-> Discord : https://discord.gg/UMcVgqq
+> Discord : https://discord.com/invite/RW74nrq
 
 Doing any of the following will result into a temporary or permanent suspension depending on the severity of your actions:
 
