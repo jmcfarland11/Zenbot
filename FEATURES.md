@@ -43,3 +43,4 @@ Mad Kalista by MadJoee. Version: 0.99 - 23/08/2020
 * R save ally X% hp
 * Balista, Skarlista, Tahmlista, Sion Combo support
 * Double Jump exploit
+* Please, if you are trying this in practice tool, make sure you spawn an ally dummy before loading the script.
