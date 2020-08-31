@@ -16,7 +16,7 @@ Mad Jinx by MadJoee. Version: 1.0 - 31/08/2020
 * Q AoE
 * Q harass
 * Q jungleclear / laneclear / lasthit
-* W combo (boolean out of range or not)
+* W combo (out of range or not)
 * W harass
 * W jungleclear / laneclear / lasthit
 * W on CC w/ blacklist
