@@ -62,5 +62,6 @@ Total: 3
 * 3 E Combo Logics: Use at X stacks, Use at X% enemy HP, instant cast
 * E last hit, laneclear, jungleclear
 * E perfect execute, E if X enemies has X stacks, E if enemy is leaving range with X stacks, E if about to die
+* R if Lethal Tempo is active and if X enemies in range
 * Killsteal
 * Anti-Gapcloser
