@@ -9,3 +9,58 @@ Doing any of the following will result into a temporary or permanent suspension 
 Reverse engineering, decompiling, disassembling or otherwise attempting to discern the source code of the components of the software
 Chargeback
 Scamming activities
+
+# Supported Champion List
+ADC: Jinx, Kalista, Twitch
+
+Total: 3
+
+# Mad Jinx ( Feature List )
+* Q Switch based on distance (prefer closest target)
+* Q AoE
+* Q harass
+* Q jungleclear / laneclear / lasthit
+* W combo (out of range or not)
+* W harass
+* W jungleclear / laneclear / lasthit
+* W on CC w/ blacklist
+* E on CC w/ blacklist
+* E autointerrupt w/ blacklist
+* E on TP pos
+* E antigapcloser (with blacklist)
+* R execute (only if out of aa or not)
+* R baseult (with blacklist)
+
+# Mad Kalista ( Feature List )
+* Perfect E execution on enemies, minions (normal minions, siege minions, super minions) and monsters (large, epic and dragons)
+* Draw Spell Ranges
+* Draw E damage (bar and percentage)
+* E if enemy walks out of range
+* E if about to die
+* E execute toggle key and permashow
+* E if kill anything + hero <- harass mode
+* Q usage
+* Q last hit, lane clear, jungle clear
+* Q through minion to hit enemy behind
+* Q KS
+* W on baron / dragon based on distance
+* R save ally X% hp
+* Balista, Skarlista, Tahmlista, Sion Combo support
+* Double Jump exploit
+* Please, if you are trying this in practice tool, make sure you spawn an ally dummy before loading the script.
+
+# Mad Twitch ( Feature List )
+* Auto Q if Lethal Tempo is active (will turn off if you don't have Lethal Tempo)
+* Auto Q if enemy is killed
+* 2 Q Combo Logics: Before AA and After AA <- will turn off if Auto Q Lethal Tempo is Enabled!
+* Q jungleclear usage
+* Q escape with Flee Key
+* Q invisible recall
+* W in combo with many checks: No cast while R, No cast for mana E, No cast if killable with X AA, if can hit X enemies
+* W harass if can hit X enemies
+* W laneclear and jungleclear
+* 3 E Combo Logics: Use at X stacks, Use at X% enemy HP, instant cast
+* E last hit, laneclear, jungleclear
+* E perfect execute, E if X enemies has X stacks, E if enemy is leaving range with X stacks, E if about to die
+* Killsteal
+* Anti-Gapcloser
