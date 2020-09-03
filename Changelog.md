@@ -1,3 +1,6 @@
+# Update 1.32 and 1.33
+Adjustments to E Combo Logic, if Execute is ON, logic will stop if the target is at 20% HP to let Execute do his work.
+
 # Update 1.31
 Unable to load AIO fixed
 
