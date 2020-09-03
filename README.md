@@ -65,3 +65,4 @@ Total: 3
 * R if Lethal Tempo is active and if X enemies in range
 * Killsteal
 * Anti-Gapcloser
+* Visuals: Ranges, Stealth Duration, Stacks, E damage on hp bar and % over hp bar on enemies and monsters
