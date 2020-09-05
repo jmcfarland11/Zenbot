@@ -1,3 +1,9 @@
+# Update 1.34 and 1.35
+Mad Twitch v0.99 to v0.993
+* Added "Toxic" features: Show Mastery after Kill and Show Mastery after Death. You will find those under Miscellaneous
+* Code optimization
+* v0.991 to v0.992 were little bug fixes.
+
 # Update 1.32 and 1.33
 Adjustments to E Combo Logic, if Execute is ON, logic will stop if the target is at 20% HP to let Execute do his work.
 
