@@ -1,3 +1,7 @@
+# Update 1.4
+* Added Mad BaseUlt v1.0, it will load only if the champ is supported! (Removed BaseUlt from Jinx Menu.)
+* Supported Champions: Ashe, Draven, Ezreal, Jinx, Senna
+
 # Update 1.34 and 1.35
 Mad Twitch v0.99 to v0.993
 * Added "Toxic" features: Show Mastery after Kill and Show Mastery after Death. You will find those under Miscellaneous
