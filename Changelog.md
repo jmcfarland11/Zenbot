@@ -1,3 +1,13 @@
+# Update 1.45
+* Mad Jinx UPDATE: 1.1, refined Q AoE logic on combo, works significally better. (If enabled, when an enemy is near your target and is in the splash damage range of rockets, will auto change from minigun to rockets, no matter the distance.)
+* Mad Twitch UPDATE: 0.995, code optimization.
+* Mad Kalista UPDATE: 0.991, added LaneClear E cast if X minions are killable (remember to activate SpellFarm HOTKEY: M)
+* Mad BaseUlt UPDATE: 1.1, added custom drawings when the target CAN be baseulted.
+* Prediction optimization, should work slightly better.
+
+# Update 1.41 to 1.44
+* Small fixes in code optimization
+
 # Update 1.4
 * Added Mad BaseUlt v1.0, it will load only if the champ is supported! (Removed BaseUlt from Jinx Menu.)
 * Supported Champions: Ashe, Draven, Ezreal, Jinx, Senna
