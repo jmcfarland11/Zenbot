@@ -1,3 +1,6 @@
+# Update 1.5
+* Added Mad Ezreal v1.0
+
 # Update 1.46
 * Mad Twitch UPDATE: 0.996, added Q after kill if X enemies around | improved W cast logic
 
