@@ -1,3 +1,6 @@
+# Update 1.46
+* Mad Twitch UPDATE: 0.996, added Q after kill if X enemies around | improved W cast logic
+
 # Update 1.45
 * Mad Jinx UPDATE: 1.1, refined Q AoE logic on combo, works significally better. (If enabled, when an enemy is near your target and is in the splash damage range of rockets, will auto change from minigun to rockets, no matter the distance.)
 * Mad Twitch UPDATE: 0.995, code optimization.
