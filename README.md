@@ -11,9 +11,25 @@ Chargeback
 Scamming activities
 
 # Supported Champion List
-ADC: Jinx, Kalista, Twitch
+ADC: Ezreal, Jinx, Kalista, Twitch
 
-Total: 3
+Total: 4
+
+# Mad Ezreal ( Feature List )
+* Q Combo with 3 Logics (Recommended: Smart)
+* Auto Q Harass and Q Harass with 2 priorities (Prio: Enemy or Minion)
+* Auto Q Last Hit
+* Q LaneClear with 2 Modes (Modes: Push or LastHit)
+* Q JungleClear
+* W Combo with 3 Logics (Recommended: Smart)
+* W LaneClear on Turrets / Inhibs / Nexus
+* W JungleClear on Drake and Herald / Baron
+* R execute and Force Cast
+* Auto R on CCd enemies with blacklist
+* Killsteal with AA and Q
+* Anti-Gapcloser Safe Logic with blacklist
+* Auto Tear Stack with tons of customization (Support all kind of Quick Charges Tears)
+* Flee with E to escape
 
 # Mad Jinx ( Feature List )
 * Q Switch based on distance (prefer closest target)
