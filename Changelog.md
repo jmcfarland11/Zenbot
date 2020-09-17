@@ -1,3 +1,6 @@
+# Update 1.51 and 1.52
+* Hotfix: Mad Kalista and Mad Twitch -> Should be fixed E execution fail.
+
 # Update 1.5
 * Added Mad Ezreal v1.0
 
